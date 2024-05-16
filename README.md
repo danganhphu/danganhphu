@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daphu.dev@gmail.com**
 
-- ⚡ Fun fact **When I am hungover I want an ice-cold berr 😂**
+- ⚡ Fun fact **When I am hungover I want an ice-cold beer 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
