@@ -15,7 +15,8 @@
 
 ## 📈 GitHub Stats
 
+
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api?username=danganhphu&show_icons=true&theme=catppuccin_latte" height="150" alt="stats graph"  />
-  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api/top-langs?username=danganhphu&layout=compact&card_width=320&langs_count=6&theme=catppuccin_latte" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=danganhphu&show_icons=true&theme=catppuccin_latte" height="150" alt="stats graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=danganhphu&layout=compact&card_width=320&langs_count=6&theme=catppuccin_latte" height="150" alt="languages graph"  />
 </div>
